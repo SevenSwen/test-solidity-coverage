@@ -10,4 +10,5 @@
 - touch .solcover.js #see .solcover.js for more information
 - npm run coverage
 
-### *and solidity-parser-sc generated an exception. See "Screen Shot 2017-11-20 at 15.11.50.png"*
+### *and solidity-parser-sc generated an exception. See below*
+![Error](https://raw.githubusercontent.com/SevenSwen/test-solidity-coverage/master/Screen%20Shot%202017-11-20%20at%2015.11.50.png)
